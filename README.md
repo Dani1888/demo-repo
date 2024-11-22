@@ -7,3 +7,6 @@ Andreas Wassmer
 
 ## Mitarbeit
 Mitarbeit ist willkommen. Wende dich an den Autor.
+
+### Disclaimer
+Der Code dient der Schulung.
