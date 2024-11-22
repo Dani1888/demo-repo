@@ -7,3 +7,4 @@ Andreas Wassmer
 
 ## Mitarbeit
 Mitarbeit ist willkommen. Wende dich an den Autor.
+Daniel war auch dabei.
