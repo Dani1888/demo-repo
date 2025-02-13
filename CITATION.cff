@@ -6,13 +6,17 @@ title: My Research Software
 message: 'If you use this software, please cite it as below.'
 type: software
 authors:
-  - name: FHNW
+  - name: >-
+      University of Applied Sciences and Arts Northwestern
+      Switzerland
     address: Bahnhostrasse 6
     city: Windisch
     country: CH
     post-code: '5210'
     website: 'https://www.fhnw.ch'
     location: School of Computer Science
+    alias: FHNW
+repository-code: 'https://github.com/anawas/demo-repo'
 license: MIT
 version: 1.0.0
 date-released: '2024-10-10'
