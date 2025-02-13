@@ -1,3 +1,6 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
 title: My Research Software
 message: 'If you use this software, please cite it as below.'
@@ -6,6 +9,9 @@ authors:
   - family-names: Wassmer
     given-names: Andreas
     email: aw@example.com
+    affiliation: >-
+      University of Applied Sciences and Arts Northwestern
+      Switzerland
   - given-names: John
     family-names: Doe
     email: jd@example.com
