@@ -2,13 +2,12 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: My Research Software
+title: Karabo
 message: 'If you use this software, please cite it as below.'
 type: software
 authors:
   - name: >-
-      University of Applied Sciences and Arts Northwestern
-      Switzerland
+      FHNW, School of Computer Science, Institue for Data Science
     address: Bahnhostrasse 6
     city: Windisch
     country: CH
@@ -18,5 +17,8 @@ authors:
     alias: FHNW
 repository-code: 'https://github.com/anawas/demo-repo'
 license: MIT
-version: 1.0.0
+version: 0.31.0
 date-released: '2024-10-10'
+
+
+University of Applied Sciences and Arts Northwestern Switzerland. (2024). My Research Software (Version 1.0.0) [Computer software]. https://github.com/anawas/demo-repo
