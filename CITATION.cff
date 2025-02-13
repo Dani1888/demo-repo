@@ -6,15 +6,13 @@ title: My Research Software
 message: 'If you use this software, please cite it as below.'
 type: software
 authors:
-  - family-names: Wassmer
-    given-names: Andreas
-    email: aw@example.com
-    affiliation: >-
-      University of Applied Sciences and Arts Northwestern
-      Switzerland
-  - given-names: John
-    family-names: Doe
-    email: jd@example.com
+  - name: FHNW
+    address: Bahnhostrasse 6
+    city: Windisch
+    country: CH
+    post-code: '5210'
+    website: 'https://www.fhnw.ch'
+    location: School of Computer Science
 license: MIT
 version: 1.0.0
 date-released: '2024-10-10'
