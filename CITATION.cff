@@ -1,8 +1,14 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: My Research Software
+message: 'If you use this software, please cite it as below.'
+type: software
 authors:
   - family-names: Wassmer
     given-names: Andreas
-title: "My Research Software"
+    email: aw@example.com
+  - given-names: John
+    family-names: Doe
+    email: jd@example.com
+license: MIT
 version: 1.0.0
-date-released: 2024-10-10
+date-released: '2024-10-10'
